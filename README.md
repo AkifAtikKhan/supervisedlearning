@@ -1,3 +1,3 @@
 # supervisedlearning
 
-Some of my assignment codes are here.
+Rough code I used for my supervising class to build statistical models. 
